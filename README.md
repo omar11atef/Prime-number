@@ -1,2 +1,2 @@
 # Prime-number
-to calc that prime or not
+## to calc that prime or not
